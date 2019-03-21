@@ -23,5 +23,10 @@ pip install numpy matplotlib pytorch pandas
 
 The used dataset is SymbTr corpus and it must be located inside AMPLab-Project folder. 
 
+
+
 ### SymbTr 
+```
+https://github.com/MTG/SymbTr
+```
 ( ```M. Kemal Karaosmanoğlu. A Turkish makam music symbolic database for music information retrieval: SymbTr. In Proceedings of 13th International Society for Music Information Retrieval Conference (ISMIR), pages 223–228, 2012.```)
