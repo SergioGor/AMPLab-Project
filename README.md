@@ -2,7 +2,7 @@
 
 The following code comprehends the two implementations of "Towards Turkish-Makam Similarity Using Symbolic Data", Gor, S. & Gusó, E., UPF-SMC, AMPLab 2019 Project. It computes similarity measures between Makams using the SymbTr corpus.
 
-The notebook in makam_lstm compute euclidean distances between Makams using trained LSTM. "makam_similarity" notebook extract features from scores and compute the similarity measures. 
+The notebook in makam_lstm computes euclidean distances between Makams using trained LSTM. "makam_similarity" notebook extracts features from scores and compute the similarity measures. 
 
 ## Requeriments
 
