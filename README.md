@@ -25,6 +25,6 @@ The used dataset is SymbTr corpus and it must be located inside AMPLab-Project f
 
 
 ### SymbTr 
-*[SymbTr](https://compmusic.upf.edu/node/140) is the biggest machine readable collection of Turkish Makam music.
+[SymbTr](https://compmusic.upf.edu/node/140) is the biggest machine readable collection of Turkish Makam music.
 
 ( ```M. Kemal Karaosmanoğlu. A Turkish makam music symbolic database for music information retrieval: SymbTr. In Proceedings of 13th International Society for Music Information Retrieval Conference (ISMIR), pages 223–228, 2012.```)
